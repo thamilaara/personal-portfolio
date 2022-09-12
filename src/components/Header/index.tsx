@@ -1,2 +1,3 @@
-import ThemeSwitch from "./ThemeSwitch";
-export default ThemeSwitch;
+import Header from './Header';
+
+export default Header;

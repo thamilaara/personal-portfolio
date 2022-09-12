@@ -1,5 +1,5 @@
 import clsx from 'clsx'
-import LanguageSwitch from './LangSwitch'
+import LanguageSwitch from './LanguageSwitch'
 import ThemeSwitch from './ThemeSwitch'
 
 export interface Props {
